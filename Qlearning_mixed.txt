@@ -1,0 +1,14 @@
+number times the objects were mixed successfully in 10 trials if you choose action based on Q-learning 0
+episode 0 failed to mix properly
+episode 1 failed to mix properly
+episode 2 failed to mix properly
+episode 3 failed to mix properly
+episode 4 failed to mix properly
+episode 5 failed to mix properly
+episode 6 failed to mix properly
+episode 7 failed to mix properly
+episode 8 failed to mix properly
+episode 9 failed to mix properly
+episode 10 failed to mix properly
+episode 11 failed to mix properly
+episode 12 failed to mix properly

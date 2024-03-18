@@ -1,0 +1,14 @@
+number times the objects were mixed successfully in 10 trials if we choose action randomly 4
+episode 0 is failed to mix properly
+episode 1 is failed to mix properly
+episode 2 is failed to mix properly
+It took total 9 steps to mix properly
+episode 4 is failed to mix properly
+It took total 7 steps to mix properly
+episode 6 is failed to mix properly
+It took total 10 steps to mix properly
+episode 8 is failed to mix properly
+episode 9 is failed to mix properly
+It took total 30 steps to mix properly
+episode 11 is failed to mix properly
+episode 12 is failed to mix properly
